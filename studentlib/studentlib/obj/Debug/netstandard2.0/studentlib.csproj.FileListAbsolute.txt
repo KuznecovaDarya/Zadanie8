@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\studentlib\studentlib\bin\Debug\netstandard2.0\studentlib.deps.json
+C:\Users\User\source\repos\studentlib\studentlib\bin\Debug\netstandard2.0\studentlib.dll
+C:\Users\User\source\repos\studentlib\studentlib\bin\Debug\netstandard2.0\studentlib.pdb
+C:\Users\User\source\repos\studentlib\studentlib\obj\Debug\netstandard2.0\studentlib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\studentlib\studentlib\obj\Debug\netstandard2.0\studentlib.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\studentlib\studentlib\obj\Debug\netstandard2.0\studentlib.AssemblyInfo.cs
+C:\Users\User\source\repos\studentlib\studentlib\obj\Debug\netstandard2.0\studentlib.dll
+C:\Users\User\source\repos\studentlib\studentlib\obj\Debug\netstandard2.0\studentlib.pdb
